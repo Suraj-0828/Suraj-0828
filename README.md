@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suraj-0828
-- 👀 I’m interested in full stack java developer
-- 🌱 I’m currently learning java with dsa
+- 👀 I’m professional in full stack java developer
+- 🌱 I’m currently learned java with dsa with react 
 - 💞️ Learn easly program with codewithprofessor.com
 - 📫 How to Learn me www.codewithprofessor.com
 
