@@ -19,13 +19,6 @@ I focus on building scalable, maintainable, and user-friendly web applications w
 
 ---
 
-🌱 Currently Learning & Enhancing  
-• Advanced Java concepts  
-• Data Structures & Algorithms for efficient problem solving  
-• Modern frontend development using React.js  
-
----
-
 💡 Professional Experience  
 • Currently working as a Software Developer at Accenture  
 • Experience collaborating in team-based, Agile environments  
