@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Suraj-0828
-- 👀 I’m professional in full stack java developer
-- 🌱 I’m currently learned java with dsa with react 
-- 💞️ Learn easly program with codewithprofessor.com
-- 📫 How to Learn me www.cleanwheel.co.in
+👋 Hi, I’m Suraj Jha  
 
-<!---
-Suraj-0828/Suraj-0828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Developer | Full Stack Java Developer  
+🚀 Passionate about building scalable web applications and continuously improving my problem-solving skills  
+
+🛠 Tech Stack  
+• Java  
+• Data Structures & Algorithms  
+• React.js  
+• JavaScript  
+• HTML, CSS, Bootstrap  
+• Git & GitHub  
+
+🌱 Currently Learning  
+• Advanced Java  
+• Data Structures & Algorithms  
+• React.js for modern frontend development  
+
+🎯 What I Do  
+• Develop clean, efficient, and maintainable code  
+• Build responsive web applications  
+• Focus on strong fundamentals and real-world problem solving  
+
+📚 Learning Platform  
+👉 Learn programming in a simple and practical way at:  
+🌐 https://www.codewithprofessor.com  
+
+🌍 Connect With Me  
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+🌐 Portfolio / Website: https://www.cleanwheel.co.in  
+
+📩 Always open to collaboration, learning, and new opportunities.
