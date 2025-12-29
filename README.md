@@ -47,7 +47,7 @@ Learn programming in a simple, practical, and beginner-friendly way:
 ---
 
 🌍 Connect With Me  
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+🔗 LinkedIn: https://www.linkedin.com/in/suraj-jha-83381b329/  
 🌐 Portfolio / Website: https://www.cleanwheel.co.in  
 
 ---
