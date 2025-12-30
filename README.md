@@ -4,7 +4,7 @@
 💻 Full Stack Java Developer | React.js | JavaScript  | Python | SQL |
 📍 Mumbai, India  
 
-I am a Software Developer with experience working in a professional MNC environment. 
+I am a Software Developer with experience working in a professional MNC'S environment. 
 I focus on building scalable, maintainable, and user-friendly web applications while continuously improving my technical and problem-solving skills.
 
 ---
