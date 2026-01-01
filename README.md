@@ -29,7 +29,7 @@ I focus on building scalable, maintainable, and user-friendly web applications w
 🧑‍💻 Freelancing & Collaboration  
 I also work as a **Freelance Software & Web Developer**, taking up projects outside of working hours and without any conflict with my professional responsibilities.
 
-If you are looking for:
+If you are looking for:-
 • Website Development  
 • Web Application Development  
 • Frontend Development (React.js) + (Python) 
