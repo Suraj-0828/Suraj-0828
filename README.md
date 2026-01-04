@@ -40,7 +40,7 @@ If you are looking for:
 
 ---
 
-📚 Learning & Teaching Initiative  
+📚 Learning & Teaching Initiative : 
 Learn programming in a simple, practical, and beginner-friendly way:  
 🌐 https://www.codewithprofessor.com  
 
