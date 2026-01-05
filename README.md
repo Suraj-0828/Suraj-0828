@@ -7,7 +7,7 @@
 
 <h1 align="center">👨‍💻 Suraj Jha | Software Engineer 🚀</h1>
 <section align="center">
-  <p align="right">Accenture India</p>
+  <p align="right">👨‍💻 Accenture India</p>
 </section>
 
 <p align="center">
