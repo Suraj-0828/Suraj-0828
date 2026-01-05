@@ -1,21 +1,16 @@
 
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SonuYadav143/SonuYadav143/main/assets/devops-banner.gif" alt="Software Engineer Banner" width="100%">
-</p>
-
 <h1 align="center">👨‍💻 Suraj Jha | Software Engineer 🚀</h1>
-<section align="center">
-  <p align="left">![Profile Views](https://komarev.com/ghpvc/?username=Suraj-0828&color=blue)</p>
-  <p align="right">👨‍💻 Accenture India</p>
-</section>
+<p>
+  <img align="left" src="https://komarev.com/ghpvc/?username=Suraj-0828&color=blue" />
+  <span align="right">👨‍💻 Accenture India</span>
+</p>
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-jha-83381b329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Suraj%20Jha-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp; &nbsp;
   <a href="https://github.com/Suraj-0828" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Suraj--0828-171515?style=flat&logo=github&logoColor=white"/>
   </a>
