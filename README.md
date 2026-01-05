@@ -29,10 +29,12 @@ I focus on building scalable, maintainable, and user-friendly web applications w
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-0828&row=1)
 
 ---
+
 ## Conributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Suraj-0828/Suraj-0828/output/github-snake.svg" />
 </p>
+
 ---
 
 🛠 Technical Skills  
