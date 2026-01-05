@@ -30,6 +30,7 @@ I focus on building scalable, maintainable, and user-friendly web applications w
 
 ---
 
+## Conributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Suraj-0828/Suraj-0828/output/github-snake.svg" />
 </p>
