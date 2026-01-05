@@ -1,10 +1,3 @@
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj-0828&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-0828&layout=compact)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Suraj-0828)
-
 
 <h1 align="center">👨‍💻 Suraj Jha | Software Engineer 🚀</h1>
 
@@ -32,7 +25,7 @@
 
 I am a Software Developer with experience working in a professional MNC'S environment. 
 I focus on building scalable, maintainable, and user-friendly web applications while continuously improving my technical and problem-solving skills.
-
+<br>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-0828&row=1)
 
 ---
