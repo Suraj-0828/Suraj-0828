@@ -6,6 +6,9 @@
 </p>
 
 <h1 align="center">👨‍💻 Suraj Jha | Software Engineer 🚀</h1>
+<section align="center">
+  <p align="right">Accenture India</p>
+</section>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-jha-83381b329/"></a>
