@@ -13,6 +13,11 @@
   </tr>
 </table>
 
+<section>
+  <img align="left" src="https://komarev.com/ghpvc/?username=Suraj-0828&color=blue" />
+  <p align="right"><b>👨‍💻 Accenture India</b></p>
+</section>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-jha-83381b329/" target="_blank">
