@@ -1,3 +1,12 @@
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj-0828&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-0828&layout=compact)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Suraj-0828)
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-0828&row=1)
 
 
 <h1 align="center">👨‍💻 Suraj Jha | Software Engineer 🚀</h1>
