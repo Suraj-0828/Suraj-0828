@@ -12,12 +12,37 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-jha-83381b329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Suraj-0828" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suraj-jha-83381b329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Suraj%20Jha-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Suraj-0828" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Suraj--0828-171515?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Suraj-0828&color=blue)
+
+
 
 👋 Hi, I’m Suraj Jha  
 
