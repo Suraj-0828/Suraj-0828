@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SonuYadav143/SonuYadav143/main/assets/devops-banner.gif" alt="DevOps Engineer Banner" width="100%">
-</p>
+
 
 <h1 align="center">👨‍💻 Sonu Yadav | DevOps Engineer 🚀</h1>
 
