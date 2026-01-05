@@ -28,6 +28,11 @@ I focus on building scalable, maintainable, and user-friendly web applications w
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-0828&row=1)
 
+![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suraj-0828&show_icons=true)
+
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Suraj-0828&theme=github)](https://github.com/Suraj-0828)
+
+
 ---
 
 ## Conributions
