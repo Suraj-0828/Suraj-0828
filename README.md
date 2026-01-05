@@ -2,17 +2,16 @@
 
 <h1 align="center">👨‍💻 Suraj Jha | Software Engineer 🚀</h1>
 
-<table width="100%">
+<table>
   <tr>
-    <td align="left">
+    <td width="50%" align="left">
       <img src="https://komarev.com/ghpvc/?username=Suraj-0828&color=blue" />
     </td>
-    <td align="right">
+    <td width="50%" align="right">
       <b>👨‍💻 Accenture India</b>
     </td>
   </tr>
 </table>
-
 
 
 <p align="center">
