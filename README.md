@@ -69,7 +69,7 @@ If you are looking for:
 ---
 
 📚 Learning & Teaching Initiative : 
-Learn programming in a simple, practical, and beginner-friendly way:  
+Learn programming in a simple, practical, and beginner-friendly way  
 🌐 https://www.codewithprofessor.com  
 
 ---
