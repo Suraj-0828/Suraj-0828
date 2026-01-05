@@ -6,9 +6,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Suraj-0828)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-0828&row=1)
-
-
 <h1 align="center">👨‍💻 Suraj Jha | Software Engineer 🚀</h1>
 
 <section>
@@ -35,6 +32,8 @@
 
 I am a Software Developer with experience working in a professional MNC'S environment. 
 I focus on building scalable, maintainable, and user-friendly web applications while continuously improving my technical and problem-solving skills.
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-0828&row=1)
 
 ---
 
