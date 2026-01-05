@@ -11,8 +11,12 @@
 </section>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-jha-83381b329/"></a>
-  <a href="https://github.com/Suraj-0828"></a>
+  <a href="https://www.linkedin.com/in/suraj-jha-83381b329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Suraj-0828" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 👋 Hi, I’m Suraj Jha  
