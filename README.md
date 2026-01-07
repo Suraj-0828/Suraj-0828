@@ -26,8 +26,6 @@
 I am a Software Developer with experience working in a professional MNC'S environment. 
 I focus on building scalable, maintainable, and user-friendly web applications while continuously improving my technical and problem-solving skills.
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-0828&row=1)
-
 ---
 
 ## Conributions
