@@ -17,7 +17,7 @@
 </p>
 
 
-👋 Hi, I’m Suraj Jh  
+👋 Hi, I’m Suraj Jha  
 
 💼 Software Developer at Accenture  
 💻 Full Stack Java Developer | React.js | JavaScript  | Python | SQL |
